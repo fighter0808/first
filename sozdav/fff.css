@@ -3,4 +3,8 @@ body {height: 100%; weight: 100%; background-color: red; color: white;}
 h1{color: red;}
 h2{color: blue;}
 h3{color: yellow;}
+<<<<<<< HEAD
 h5 {background-color: red;}
+=======
+hr{color: red;}
+>>>>>>> b49ab923de9cae4583993c1324e3bfea8aa495a7
